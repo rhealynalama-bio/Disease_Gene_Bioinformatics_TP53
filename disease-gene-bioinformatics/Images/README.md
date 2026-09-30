@@ -7,4 +7,4 @@
 - Strand: minus (-)
 - Approximate gene size: 19,070 bp (about 19 kb)
 
-![Gene location](images/01_gene_location.png)
+
