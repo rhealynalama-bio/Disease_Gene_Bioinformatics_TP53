@@ -45,3 +45,14 @@ The tallest conservation peaks lined up mainly with exons in the middle of the g
 
 **e. Why strong conservation can suggest biological importance:**
 When a DNA sequence stays nearly the same across many different species, it usually means that sequence has an important function. Changes (mutations) in such regions are likely to harm the organism, so natural selection removes them over time. This is why the highly conserved exons of TP53 are likely to encode parts of the protein that are essential for its function.
+
+## 4. Selected ClinVar Variant
+
+- **a. Gene:** TP53
+- **b. Variant name (HGVS):** NM_000546.6(TP53):c.524G>A (p.Arg175His)
+- **c. rsID / ClinVar ID:** rs28934578 / VCV000012374.87 (Variation ID 12374)
+- **d. Chromosome and position (GRCh38):** chr17:7,675,088 (17p13.1)
+- **e. Associated condition:** Li-Fraumeni syndrome
+- **f. Clinical significance (as reported by ClinVar):** Pathogenic (germline)
+- **g. Review status:** Reviewed by expert panel (3 stars); ClinGen TP53 Variant Curation Expert Panel, Sep 2024
+- **h. ClinVar record URL:** (https://ncbi.nlm.nih.gov/clinvar/variation/12374/?term=%22NM_000546.6%3Ac.524G%3EA%22%5BVARNAME%5D)
