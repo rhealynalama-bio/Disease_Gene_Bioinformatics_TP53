@@ -29,3 +29,19 @@ An exon is a part of a gene that is kept in the mature mRNA after splicing, and 
 
 **d. Are introns generally longer or shorter than exons in TP53?**
 Introns are generally longer. In the browser, the exons appear as small boxes and the introns as the long lines connecting them. Most of TP53's 19 kb span is intron, and most exons are only a few hundred base pairs or less. The exception is exon 11 (1,270 bp), which is the longest exon.
+
+## 3. UCSC Annotation Tracks
+
+**a. Gene annotation track used:** MANE Select Plus Clinical (NM_000546.6), with GENCODE V50 and NCBI RefSeq (curated) also displayed.
+
+**b. Were ClinVar-related variant marks visible within or near TP53?**
+Yes. The ClinVar SNVs track showed many colored marks across the gene. They were densest over the coding exons in the middle of the gene, with fewer in the introns and in the regions on either side.
+
+**c. Were some regions more conserved than others?**
+Yes. The 100 Vertebrates PhyloP track had tall peaks in some regions and low, flat signal in others.
+
+**d. Did conserved regions correspond mainly to exons, introns, both, or another region?**
+The tallest conservation peaks lined up mainly with exons in the middle of the gene. The introns and the ends of the gene showed lower conservation, with a few small peaks.
+
+**e. Why strong conservation can suggest biological importance:**
+When a DNA sequence stays nearly the same across many different species, it usually means that sequence has an important function. Changes (mutations) in such regions are likely to harm the organism, so natural selection removes them over time. This is why the highly conserved exons of TP53 are likely to encode parts of the protein that are essential for its function.
