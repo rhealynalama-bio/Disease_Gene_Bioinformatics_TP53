@@ -10,7 +10,9 @@ This repository documents two connected bioinformatics lab activities for the Ce
 Each folder has a README with the steps, observations, answers, and screenshots (in its `Images` folder).
 
 **Name:** Rhealyn F. Alama
+
 **Gene:** TP53 (chr17:7,668,421-7,687,490, GRCh38/hg38)
+
 **Variant examined:** NM_000546.6(TP53):c.524G>A (p.Arg175His)
 
 ## Resources used
