@@ -22,4 +22,4 @@ Each folder has a README with the steps, observations, answers, and screenshots 
 * ClinVar record for the variant: https://ncbi.nlm.nih.gov/clinvar/variation/12374/
 * UCSC Cell Browser: https://cells.ucsc.edu/
 * Cell Browser dataset collection (leptomeningeal metastasis): https://lepto-metastasis.cells.ucsc.edu
-* Cell Browser dataset used: (paste the exact URL from your address bar)
+
