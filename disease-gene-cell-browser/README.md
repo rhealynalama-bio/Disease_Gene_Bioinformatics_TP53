@@ -35,11 +35,20 @@
 ![TP53 expression](Images/02_gene_expression.png)
 
 ## Part E. Cell Types Expressing TP53
-- a. Strongest visible expression: (confirm with the dot plot in Part F)
-- b. Another cluster with detectable expression: (e.g., NK cells or monocytes)
-- c. Low or undetected: cDCs and the majority of cells in each cluster
-- d. Pattern: broad, not restricted to one cell type
-- e. Interpretation (based on this dataset only): TP53 is a tumor suppressor involved in the DNA damage response, and most cell types use it at low levels, so a broad, sparse pattern fits. Single-cell methods also miss many low-level transcripts, so undetected cells may still express TP53.
+- a. Strongest visible expression: cDCs, based on average expression in the dot plot. This cluster has only a few cells, so the result is tentative.
+- b. Another cluster with detectable expression: Cancer 5, slightly higher than the other cancer clusters (also a small cluster).
+- c. Low or undetected: CD4 T cells, CD8 T cells, NK cells, monocytes, macrophages, Cancer 3, and Cancer 4 (pale in the dot plot), and most individual cells in every cluster.
+- d. Pattern: broad and low, not restricted to one cell type.
+- e. Interpretation (based on this dataset only): TP53 is a tumor suppressor that is active at low levels in many cell types as part of the DNA damage response, so a broad, low pattern is expected. The small differences in cDCs and Cancer 5 rest on very few cells, so I can't conclude they differ from the other clusters.
 
 **Screenshot 3: TP53 with cell-type labels**
 ![Cell types](Images/03_cell_types.png)
+
+## Part F. Violin Plot
+- a. Cells selected: 1,165 cells (about 47% of the dataset), mainly the CD4 T cell cluster
+- b. Compared with the other 1,304 cells: similar. Both groups have most cells at baseline with a thin tail of higher values.
+- c. What the plot adds: the map showed scattered cells with higher TP53, but the violin shows the distribution. Most cells have undetected TP53 and only a small minority are higher, and CD4 T cells are not enriched compared with the rest. The dot plot adds the average per cluster, which is low everywhere.
+
+**Screenshot 4: Violin plot and dot plot**
+![Violin plot](Images/04_expression_plot.png)
+![Dot plot](Images/04b_dot_plot.png)
