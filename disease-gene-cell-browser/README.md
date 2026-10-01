@@ -133,7 +133,7 @@ TP53 showed low expression spread across almost all cell types, with no single c
 
 ## 11. References and Links
 * UCSC Cell Browser: https://cells.ucsc.edu/
-* Dataset used: [(paste your dataset URL)](https://cells.ucsc.edu/?ds=lepto-metastasis+patient-c)
+* Dataset used: (https://cells.ucsc.edu/?ds=lepto-metastasis+patient-c)
 * Dataset collection page: https://lepto-metastasis.cells.ucsc.edu
 * Speir et al. 2021 (original publication of the dataset, linked from Info & Download)
 * UCSC Cell Browser Getting Started Guide: https://cellbrowser.readthedocs.io/en/master/ui/getting_started.html
