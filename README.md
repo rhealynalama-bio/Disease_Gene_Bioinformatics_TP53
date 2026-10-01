@@ -1,11 +1,6 @@
 # TP53 Disease Gene Bioinformatics
 
-This repository documents two connected bioinformatics lab activities for the Cell & Molecular Biology course. Both investigate **TP53** (tumor protein p53), the gene associated with **Li-Fraumeni syndrome**.
-
-| Activity | Question | Folder |
-|---|---|---|
-| UCSC Genome Browser + NCBI ClinVar | Where is TP53 in the human genome, what is its structure, and what does a clinically reported variant look like? | `disease-gene-bioinformatics` |
-| UCSC Cell Browser | In which cell types is TP53 expressed? | `disease-gene-cell-browser` |
+This repository documents the outputs for two connected bioinformatics lab activities. Both investigate **TP53** (tumor protein p53), the gene associated with **Li-Fraumeni syndrome**.
 
 Each folder has a README with the steps, observations, answers, and screenshots (in its `Images` folder).
 
