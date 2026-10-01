@@ -52,3 +52,13 @@
 **Screenshot 4: Violin plot and dot plot**
 ![Violin plot](Images/04_expression_plot.png)
 ![Dot plot](Images/04b_dot_plot.png)
+
+## Part G. Marker Genes
+- a. Cluster examined: Cancer 4
+- b. Marker gene 1: KCNK2 (z score 32.6)
+- c. Marker gene 2: MYCN (z score 31.3)
+- d. Marker gene 3: TFAP2B (z score 29.2)
+- e. Does TP53 behave like a cell-type marker in this dataset? No. TP53 is not among the top markers of any cluster I checked. In the dot plot its expression is low in every cluster, and in the map only a minority of cells in each cluster express it. A gene can be important in disease without marking a cell type, and TP53 acts in the DNA damage response in many cell types.
+
+**Screenshot 5: Marker genes for Cancer 4**
+![Marker genes](Images/05_marker_genes.png)
